@@ -7,6 +7,6 @@
  
 # Usage:
 ```
-perl prog2.pl inputfile outputfile
+perl perlfreq.pl inputfile outputfile
 ```
 ![example run](https://github.com/townerr/perl-word-freq/blob/master/perlrun.gif)
