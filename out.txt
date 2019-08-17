@@ -1,0 +1,35 @@
+size = 130
+
+1               :  1   100             :  1   C               :  6   
+For             :  1   However         :  1   If              :  1   
+Omit            :  1   PREFACE         :  1   Play            :  1   
+This            :  1   You             :  3   a               :  8   
+absorb          :  1   and             :  2   another         :  1   
+are             :  2   as              :  1   at              :  1   
+be              :  1   because         :  1   become          :  2   
+book            :  4   bring           :  1   called          :  1   
+causing         :  1   change          :  1   chip            :  1   
+comma           :  1   computer        :  3   content         :  1   
+deliberately    :  1   design          :  1   devoted         :  1   
+effective       :  1   encouraged      :  1   enjoy           :  1   
+expand          :  1   experiment      :  1   exposed         :  1   
+familiar        :  1   fingertips      :  1   for             :  1   
+games           :  1   get             :  1   greater         :  1   
+having          :  1   heart           :  1   help            :  1   
+illustrated     :  1   in              :  4   increase        :  1   
+is              :  6   it              :  4   just            :  1   
+knowledge       :  1   language        :  5   learn           :  1   
+more            :  2   most            :  1   not             :  1   
+on              :  1   one             :  2   or              :  2   
+period          :  1   preferably      :  1   processing      :  1   
+programming     :  1   programs        :  2   quite           :  1   
+required        :  1   s               :  1   secrets         :  1   
+semicolon       :  1   simply          :  1   speed           :  1   
+such            :  1   t               :  1   terminal        :  1   
+text            :  1   that            :  1   the             :  10   
+thing           :  1   this            :  4   thoroughly      :  1   
+to              :  16   typing          :  1   understand      :  1   
+want            :  2   way             :  1   well            :  1   
+whatever        :  1   will            :  3   wise            :  1   
+without         :  1   word            :  1   worry           :  1   
+your            :  3   
