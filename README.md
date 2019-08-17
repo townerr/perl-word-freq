@@ -1,9 +1,9 @@
 # perl word frequency
  Perl program to parse a text file and create a word frequency hash and save it to a file.
  
-# Program takes 2 args
-+ The Input file
-+ The Output file
+# Program takes two arguements
++ The Input Text File. Ex: essay.txt
++ The Output Text File. Ex: words.txt
  
 # Usage:
 ```
